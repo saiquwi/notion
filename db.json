@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "m@gmail.com",
+      "password": "$2a$10$soQ5aqNvkXxQciDkJdPeXebdRhbrk/bAKS8DyFzKNix/MPvOAaDuy",
+      "date": 1702487762853,
+      "id": 2
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "$2a$10$rqAaU89lMhPiIis4FuiIUuCl/l15VH0jAOAhVrjGfLBDqMcy4eFmO",
+      "date": 1702497519314,
+      "id": 3
+    },
+    {
+      "email": "q@g.com",
+      "password": "$2a$10$bHE1DLVWXAJcC.s9c5vnse4gaP56JKblNh2.4/irwMJpZ/WR/A3Mq",
+      "date": 1702497956689,
+      "id": 4
+    },
+    {
+      "email": "w@g.com",
+      "password": "$2a$05$Nm1Go3ihYzxtQ8oX8wf.mOAmJ3WYM3x/RZ2XrlYAr72xgGxYUFXhO",
+      "date": 1702498377818,
+      "id": 5
+    }
+  ],
+  "notes": [
+    {
+      "title": "2 m",
+      "text": "2",
+      "authorId": "2",
+      "date": 1702488783950,
+      "id": 2
+    },
+    {
+      "authorId": "3",
+      "title": "b1",
+      "text": "fff",
+      "date": 1702499647038,
+      "id": 3
+    },
+    {
+      "authorId": "5",
+      "title": "w 1",
+      "text": "dd",
+      "date": 1702499807464,
+      "id": 4
+    },
+    {
+      "authorId": "4",
+      "title": "q1",
+      "text": "cdcd",
+      "date": 1702499846432,
+      "id": 5
+    }
+  ]
+}
